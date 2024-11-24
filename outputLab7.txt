@@ -1,0 +1,10 @@
+OPS445 Lab Report - System Information for running ./CheckLab7.py
+=================================================================
+    User login name: rrpatel51
+    Linux system name: riddhi-patel
+    Python executable: /usr/bin/python3
+    Python version: 3123
+    OS Platform: linux
+    Working Directory: /home/rrpatel51/ops445/lab7
+    Start at: Sat Nov 23 23:12:12 2024
+=================================================================
